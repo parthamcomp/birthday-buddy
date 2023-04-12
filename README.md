@@ -5,3 +5,10 @@ Project created as part of course https://www.udemy.com/course/react-tutorial-an
 Project shows list of birthdays on the current day.
 
 Made in: ReactJS
+
+### STEPS
+
+1. Download the files
+2. Run "npm install"
+3. npm run dev (project created with Vite)
+4. Navigate to http://localhost:5173/

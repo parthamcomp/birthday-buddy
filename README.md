@@ -12,3 +12,7 @@ Made in: ReactJS
 2. Run "npm install"
 3. npm run dev (project created with Vite)
 4. Navigate to http://localhost:5173/
+
+### APP PREVIEW
+
+![Birthday Buddy App Preview](https://github.com/parthamcomp/birthday-buddy/AppPreview.png?raw=true)
